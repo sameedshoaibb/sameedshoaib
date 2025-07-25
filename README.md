@@ -29,8 +29,9 @@ I’m **Sameed Shoaib**, a DevOps & Cloud Engineer with a **Master’s in Inform
 ### 🔭 Currently Working On
 - ☁️ **Cloud Platforms**: Azure, AWS  
 - 🐳 **Containers & Orchestration**: Docker, Kubernetes, Helm  
-- 🧰 **CI/CD & DevOps**: Jenkins, Azure DevOps, GitHub Actions  
-- ⚙️ **Infrastructure as Code**: Terraform, Ansible  
+- 🧰 **CI/CD & DevOps**: Jenkins, Azure DevOps, GitHub Actions
+- 🛠️ **Configuration Management**: Ansible
+- ⚙️ **Infrastructure as Code**: Terraform  
 - 📊 **Monitoring & Observability**: Prometheus, Grafana, Loki, ELK, New Relic
 - 💻 **Programming & Scripting Languages**: Python, Bash
 
