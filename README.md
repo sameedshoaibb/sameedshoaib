@@ -2,9 +2,9 @@
 
 ---
 
-### 🔧 DevOps | Cloud | SRE | Automation | Observability | Security
+### 🔧 DevOps | Cloud | SRE | Platform
 
-I’m **Sameed Shoaib**, a DevOps & Cloud Engineer with a **Master’s in Information Security**, multiple certifications, and a strong foundation in system administration. I design and build secure, observable, and automated infrastructure across cloud-native environments.
+I’m **Sameed Shoaib**, a DevOps & Cloud Engineer with a **Master’s in Information Security**. I design and build secure, observable, and automated infrastructure across cloud-native environments.
 
 ---
 
@@ -29,9 +29,10 @@ I’m **Sameed Shoaib**, a DevOps & Cloud Engineer with a **Master’s in Inform
 ### 🔭 Currently Working On
 - ☁️ **Cloud Platforms**: Azure, AWS  
 - 🐳 **Containers & Orchestration**: Docker, Kubernetes, Helm  
-- 🧰 **CI/CD & DevOps**: Jenkins, Azure DevOps, GitHub Actions, SonarCloud  
-- ⚙️ **Infrastructure as Code**: Terraform, Ansible, Bash  
-- 📊 **Monitoring & Observability**: Prometheus, Grafana, Loki, Kibana, New Relic
+- 🧰 **CI/CD & DevOps**: Jenkins, Azure DevOps, GitHub Actions  
+- ⚙️ **Infrastructure as Code**: Terraform, Ansible  
+- 📊 **Monitoring & Observability**: Prometheus, Grafana, Loki, ELK, New Relic
+- 💻 **Programming & Scripting Languages**: Python, Bash
 
 ---
 
@@ -46,7 +47,7 @@ I’m **Sameed Shoaib**, a DevOps & Cloud Engineer with a **Master’s in Inform
 - Kubernetes, Helm, Docker, Terraform, Ansible
 - CI/CD with Jenkins, GitHub Actions, Azure DevOps
 - Infrastructure automation and cost optimization
-- Monitoring: Prometheus, Grafana, Loki, Kibana, New Relic
+- Prometheus, Grafana, Loki, Kibana, New Relic
 
 ---
 
