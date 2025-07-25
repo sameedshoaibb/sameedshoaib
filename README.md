@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56ccf2&height=200&section=header&text=Hi%20I'm%20Sameed!&fontSize=40&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56ccf2&height=200&section=header&text=Hi,%20I'm%20Sameed!&fontSize=40&fontAlignY=35)
 
 ---
 
